@@ -1,0 +1,40 @@
+.Contenedor-presentacion {
+    
+    height: 500px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+    color: #c08c38;
+    border-radius: 10px;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+  }
+  
+  .imagen-presentacion {
+    height: 100%;
+    width: auto;
+  }
+  
+  .contenedor-texto {
+    text-align: center;
+    padding: 40px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+  }
+  
+  .nombre {
+    font-size: 50px;
+  }
+  
+  .tipo-comida {
+    font-size: 30px;
+    margin-top: 15px;
+    padding-bottom: 30px;
+  }
+  
+  .texto {
+    font-size: 30px;
+    text-align: justify;
+  }

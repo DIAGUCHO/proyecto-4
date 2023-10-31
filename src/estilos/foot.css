@@ -1,0 +1,42 @@
+footer {
+  background-color: #000000;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  
+  
+}
+
+.contenedor-footer{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.footer-contenido-2 {
+
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.you{
+  height: 50px;
+  width: 50px;
+  margin: 0px 10px 0px 10px;
+}
+
+.face{
+  height: 50px;
+  width: 50px;
+  margin: 0px 10px 0px 10px;
+}
+
+.mapa{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 300px;
+}
+

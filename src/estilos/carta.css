@@ -1,0 +1,38 @@
+#menu{
+    background-color: black;
+    width: 350px;
+    height: 400px;
+    margin: 20px 20px 20px 20px;
+    border-radius: 10px;
+    
+
+}
+
+.carta-foto{
+    margin-top: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 180;
+    width: 270;
+    
+}
+
+.datos-menu{
+    width: 350px;
+    height: 200px;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+.nombre-comida{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.presio{
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}

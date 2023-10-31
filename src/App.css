@@ -1,0 +1,79 @@
+.contenedor{
+    background-image: url('../src/imagenes/fondo.jpg');
+
+}
+
+.contenedor-padre1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.contenedor-presentacion {
+
+    margin-top: 200px;
+
+}
+
+.reserva {
+    height: 400px;
+    width: 400px;
+}
+
+.contenedor-carta{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.contenedor-carta2{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.boton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cambio-comida{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+.cambio-comida2{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    
+}
+
+.menu{
+    
+    background-color: rgb(0, 0, 0);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
